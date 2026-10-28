@@ -1,3 +1,13 @@
+> **Project Status: Educational Prototype (v1.0)**
+>
+> OneKey University Portal is an academic project demonstrating authentication, multi-factor authentication, and simulated Single Sign-On (SSO) flows.
+>
+> The built-in OAuth 2.0 and SAML implementations are for educational purposes only and are not production-ready.
+>
+> Google Sign-In requires separate OAuth credentials. HTTPS uses a local development certificate.
+>
+> Future development will focus on stronger security controls, full Google Sign-In integration, and production-ready HTTPS configuration.
+
 # OneKey University Portal
 
 **An educational university portal demonstrating centralized sign-in and access to multiple campus services.**
